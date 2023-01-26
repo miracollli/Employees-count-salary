@@ -1,4 +1,4 @@
-# Employees-count-salary 🧮💰
+# Calculate-salary 🧮💰
 
 This is my first experience with React. Here I have created a small application that will calculate the salaries of employees. You can also select employees who will receive a bonus and add new employees.
 
